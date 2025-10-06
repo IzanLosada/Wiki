@@ -6,3 +6,8 @@ Benvinguts a la meva wiki personal!
 - Fifa
 - EA FC
 - VALORANT
+
+## Pel·licules preferides
+- El viatge de Chihiro
+- Interstellar
+- El Senyor dels Anells
