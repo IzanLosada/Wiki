@@ -11,3 +11,8 @@ Benvinguts a la meva wiki personal!
 - El viatge de Chihiro
 - Interstellar
 - El Senyor dels Anells
+
+## Futbolistes preferits
+- Luka Jovic
+- Vini Jr
+- Fede Valverde
