@@ -16,3 +16,8 @@ Benvinguts a la meva wiki personal!
 - Luka Jovic
 - Vini Jr
 - Fede Valverde
+
+## Vehicles de transport preferits
+- Bicicleta
+- Tren
+- Cotxe elèctric
