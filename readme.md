@@ -21,3 +21,8 @@ Benvinguts a la meva wiki personal!
 - Bicicleta
 - Tren
 - Cotxe elèctric
+
+## Pokemons
+- Gulpin
+- Psyduck
+- Golduck
