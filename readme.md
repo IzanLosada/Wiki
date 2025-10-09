@@ -2,7 +2,7 @@
 
 Benvinguts a la meva wiki personal!
 
-![CUBO](Bucket_JE2_BE2.jpg.webp)
+![Filete](filete.jpg)
 
 ## Videojocs preferits 🎮
 - Fifa
