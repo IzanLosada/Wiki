@@ -2,7 +2,7 @@
 
 Benvinguts a la meva wiki personal!
 
-![CUBO](https://minecraft.fandom.com/es/wiki/Cubo)
+![CUBO](Bucket_JE2_BE2.jpg.webp)
 
 ## Videojocs preferits 🎮
 - Fifa
