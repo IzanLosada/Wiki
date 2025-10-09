@@ -1,28 +1,30 @@
-# La meva wiki personal
+# La meva wiki personal 
 
 Benvinguts a la meva wiki personal!
 
-## Videojocs preferits
+![CUBO](https://minecraft.fandom.com/es/wiki/Cubo)
+
+## Videojocs preferits 🎮
 - Fifa
 - EA FC
 - VALORANT
 
-## Pel·licules preferides
+## Pel·licules preferides 🎬
 - El viatge de Chihiro
 - Interstellar
 - El Senyor dels Anells
 
-## Futbolistes preferits
+## Futbolistes preferits ⚽
 - Luka Jovic
 - Vini Jr
 - Fede Valverde
 
-## Vehicles de transport preferits
+## Vehicles de transport preferits 🚗
 - Bicicleta
 - Tren
 - Cotxe elèctric
 
-## Pokemons
+## Pokemons 👻​
 - Gulpin
 - Psyduck
 - Golduck
